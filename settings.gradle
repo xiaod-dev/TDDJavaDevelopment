@@ -1,5 +1,6 @@
 rootProject.name = 'TDDJavaDevelopment'
 include 'TicTacToe'
+include 'TicTacToev2'
 include 'connect4'
 include 'connect4-tdd'
 
